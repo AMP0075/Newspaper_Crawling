@@ -1,6 +1,6 @@
 # Newspaper_Crawling
 The aim of this project is to help users research and extract information about the
-topic of their choosing from conventional news as well as social media. The output
+topic of their choosing from conventional news media. The output
 will be in tabular form with required attributes. Automating the process will save
 hours of precious time wasted in searching browsing through and organizing news
 paper articles from the web manually. A user can specify:
