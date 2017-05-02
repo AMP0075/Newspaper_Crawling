@@ -65,5 +65,9 @@ def validateDate(datestring):
         print("galat hai")
 
 '''
+var="http://timesofindia.indiatimes.com//city/raipur/demonetisation-a-step-towards-more-transparent-economy-says-chhattisgarh-cm/articleshow/56419054.cms"
+print(var.split('/'))
+
+
 
 

@@ -37,12 +37,12 @@ class toi(ScrapAbstract):
 
     def getCategory(self, soup, link):
         linkatrr = link.split('/')
-        return linkatrr[3]
+        return linkatrr[4]
 
     def getCity(self, soup, link):
         linkatrr = link.split('/')
-        if linkatrr[3] == 'city':
-            return linkatrr[4]
+        if linkatrr[4] == 'city':
+            return linkatrr[5]
         else:
             return ""
 
