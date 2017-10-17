@@ -1,8 +1,8 @@
 from tkinter import *
 from tkinter import messagebox
-from Model import ScrapToi
-from Model import scrapehinuarticle
-from Controller.convertion import convert
+from Scrapper import ScrapToi
+from Scrapper import scrapehinuarticle
+from Covertion.convertion import convert
 from datetime import datetime
 
 def findArticles():
